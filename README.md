@@ -1,8 +1,8 @@
 # Programmer
 
-- Org: [clonne.org](https://clonne.org)
-- Landing: [kojo.clonne.net](https://kojo.clonne.net)
-- Contracts: [contracts.clonne.net](https://contracts.clonne.net) | [git](https://github.com/jeffery-clonne)
+- Org: [boldly.engineering](https://boldly.engineering)
+- Landing: [kojo.boldly.engineering](https://kojo.boldly.engineering)
+- Contracts: [contracts.boldly.engineering](https://contracts.boldly.engineering) | [git](https://github.com/jeffery-clonne)
 
 _Boldly Engineering_
 
